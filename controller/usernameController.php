@@ -35,7 +35,7 @@
         }
         public function verificarusuario($email,$contraseña){
             $keydb = $this->model->obtenerclave($email);
-            return (password_verify($contraseña,$keydb)) ? true : false;
+            return (password_verify($contraseña,$keydb)) ? header("Location:show.php") : header("Location:show.php");
         }
     }
 ?>

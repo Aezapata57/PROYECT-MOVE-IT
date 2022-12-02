@@ -6,6 +6,7 @@
     $contraseña = $obj->limpiarcadena($_POST['PASSWORD']);
     $bandera = $obj->verificarusuario($email,$contraseña);
     if($bandera){
+        $_SESSION['usuario'] = $email;
         header("Location:panel_control.php");
     }else{
         $error = "<li>Las claves son incorrectas</li>";
