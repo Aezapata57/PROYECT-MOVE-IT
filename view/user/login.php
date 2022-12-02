@@ -77,7 +77,7 @@
                             </div>
                             <br>
                             <div class="col mb-2">
-                                <span><a href='#'><a href='Recover.php'>¿Olvidaste tu contraseña?</a></a></span>
+                                <span><a href='recover.php'>¿Olvidaste tu contraseña?</a></span>
                             </div>
                         </div>
                         
