@@ -1,0 +1,85 @@
+.btn-Inicio_sesion{
+    background-color: #001696;
+    color:#FFF;
+    border-color: #001696;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    background-color: #000C50;
+    color:#FFF;
+    border-color: #00106D;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.bodyLogin{
+    background-image:url(view/image/Fondo.jpg);
+    background-size: 100% ;
+}
+
+.bodyRegister{
+    background-image: url(view/image/Fondo.jpg);
+    background-size: 100% 100%;
+}
+.bg-form{
+    background-color: #FFF;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: solid #001696 5px;
+}
+
+.form-floating input{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.form-check{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.form-select{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 89%;
+}
+
+.bg{
+    background-image: url(view/image/Background.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    margin-right: 18px; 
+}
+
+.bg2{
+    background-image: url(view/image/BackgroundRecover.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    margin-right: 18px; 
+}
+
+.container-fluid{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
