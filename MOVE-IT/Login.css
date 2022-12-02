@@ -1,0 +1,118 @@
+h2{
+    color:#FFF;
+}
+.btn-Inicio_sesion{
+    background-color: #001696;
+    color:#FFF;
+    border-color: #001696;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.btn-buscar{
+    background-color: #000C50;
+    color:#FFF;
+    border-color: #00106D;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+#header {
+    margin:auto;
+    width:2000px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.nav li a {
+    background-color:#000C50;
+    color:#FFF;
+    text-decoration:none;
+    padding:5px 12px;
+    display:block;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    background-color: #000C50;
+    color:#FFF;
+    border-color: #00106D;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+.mapa{
+    margin: 0 auto; 
+    display: block;
+    width: 1400px;
+    height: 335px;
+}
+
+.bodyLogin{
+    background-image: url(Imagenes/Fondo.jpg);
+    background-size: 100% ;
+}
+
+.bodyService{
+    background-image: url(Imagenes/FONDO2.jpeg);
+    background-size: 100% 100%;
+    margin:0px;
+    padding:0px;
+}
+
+.bodyRegister{
+    background-image: url(Imagenes/Fondo.jpg);
+    background-size: 100% 100%;
+}
+.bg-form{
+    background-color: #FFF;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: solid #001696 5px;
+}
+
+.form-floating input{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.form-check{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.form-select{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.bg{
+    background-image: url(Imagenes/Background.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    margin-right: 18px; 
+}
+
+.bg2{
+    background-image: url(Imagenes/BackgroundRecover.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    margin-right: 18px; 
+}
